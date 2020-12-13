@@ -1,13 +1,13 @@
 [
   {
     "categoryId": 1,
-    "categoryTitle": "Watch next TV and movies",
+    "categoryTitle": "Komedi",
     "categoryItemList": [
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/kacmabiraderizlefullhdyerlikomediizle/Ka%C3%A7ma%20Birader%20izle%20full%20hd%20-%20Yerli%20komedi%20izle.mp4",
         "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0c31d2e9b7a93da1a5e9110377715b2ce2caa9b4aee69de54be289d0d4992738._UR1920,1080_RI_SX356_FMwebp_.jpg",
-        "movieName": "Love & Other Drugs"
+        "imageUrl": "https://i4.hurimg.com/i/hurriyet/75/750x422/56ae22b267b0a91b7840de97.png",
+        "movieName": "Kaçma Birader"
       },
       {
         "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
