@@ -1,37 +1,37 @@
 [
   {
     "categoryId": 1,
-    "categoryTitle": "Komedi",
+    "categoryTitle": "2020",
     "categoryItemList": [
       {
-        "fileUrl": "https://archive.org/download/kacmabiraderizlefullhdyerlikomediizle/Ka%C3%A7ma%20Birader%20izle%20full%20hd%20-%20Yerli%20komedi%20izle.mp4",
+        "fileUrl": "https://archive.org/download/2020-Yertli/Eltilerin-Savasi2020.mp4",
         "id": 1,
-        "imageUrl": "https://sm.ign.com/t/ign_tr/screenshot/default/kacma-birader-2_c83r.1280.jpg",
-        "movieName": "Kaçma Birader"
+        "imageUrl": "https://tr.web.img4.acsta.net/videothumbnails/20/01/02/07/30/2262690.jpg",
+        "movieName": "Eltilerin Savaşı"
       },
       {
-        "fileUrl": "https://archive.org/download/videoplayback_20191128_1603/videoplayback.mp4",
+        "fileUrl": "https://archive.org/download/2020-Yertli/Bayi-Toplantisi.mp4",
         "id": 2,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/d7c6ad0bbd2ba9e09b6bebca5bc41eac6286aff64962ce90797b79c0d26c9379._UR1920,1080_RI_SX356_FMwebp_.jpg",
-        "movieName": "Bewakoofiya"
+        "imageUrl": "https://i.ytimg.com/vi/bcgDQB1n47g/maxresdefault.jpg",
+        "movieName": "Bayi Toplantısı"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/2020-Yertli/Yarina-Tek-Bilet-2020.mp4",
         "id": 3,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/a5ded5cf432726e28d1ab04406ef78ea5957fa6ea472aa2b7ea439f3261cf2d5._UR1920,1080_RI_SX356_FMwebp_.jpg",
-        "movieName": "Supernatural"
+        "imageUrl": "https://i.ytimg.com/vi/Vcou-aNjcq0/maxresdefault.jpg",
+        "movieName": "Yarına Tek Bilet"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/2020-Yertli/Biz-Boyleyiz2020.mp4",
         "id": 4,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/b96b087b5beded1de0a112877908fd0ad42752871e75ddd48d3592e355adcd51._UR1920,1080_RI_SX356_FMwebp_.jpg",
-        "movieName": "T-34"
+        "imageUrl": "https://www.soylentidergi.com/wp-content/uploads/2020/06/wannart-biz-b%C3%B6yleyiz-900x580-1.jpg",
+        "movieName": "Biz Böyleyiz"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/2020-Yertli/Gecegelen2020.mp4",
         "id": 5,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/db750c01fdc262357337eb4f698593531e6a3170c46b2923bb1604d9004739d6._UR1920,1080_RI_SX356_FMwebp_.jpg",
-        "movieName": "Season of the witch"
+        "imageUrl": "https://i.pinimg.com/736x/07/39/a3/0739a3191a736a19da18e99c6f1d7af3.jpg",
+        "movieName": "Gece Gelen"
       }
     ]
   },
