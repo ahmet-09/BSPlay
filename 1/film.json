@@ -136,5 +136,35 @@
         "movieName": "The Family Man"
       }
     ]
+  },
+  {
+    "categoryId": 5,
+    "categoryTitle": "Deneme",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 1,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c435cc1eac74025eaa5c7512e6371bb91cdc08ac6edcc58ead1c2321ec1b4fdf._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "EL PRESIDENT"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 2,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9cb4c9bf70f2e01f15976dd6d1a3c31ea69fa005a4eaf17b21ad6d85f1366bd5._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "PatalLok"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 3,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/07cfda1dd1528776f5096513f7b4cd2e9432c18eef0612ba7de68c927b3450de._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "UPLOAD"
+      },
+      {
+        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "id": 4,
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/amazon_studios-FMAN_S1_STM_IN-Full-Image_GalleryCover-rw-RW-1569071977886._UR1920,1080_RI_SX712_FMwebp_.jpg",
+        "movieName": "The Family Man"
+      }
+    ]
   }
 ]
