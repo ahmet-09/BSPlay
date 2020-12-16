@@ -1,39 +1,33 @@
 [
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "fileUrl": "https://archive.org/download/eltilerin.-savasi.-2020/deliler.mp4",
     "id": 1,
     "imageUrl": "https://70x100.com/wp-content/uploads/2018/11/CUTOUT-FLAT.jpg",
-    "movieName": "PONMANGAL VANDAL"
+    "movieName": "Deliler Fatih'in Fermanı"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "fileUrl": "https://archive.org/download/2019-yerli_202002/Kizkardesler2019.mp4",
     "id": 2,
-    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner2.png",
-    "movieName": "Little Women"
+    "imageUrl": "https://kulturendustrisi.com/wp-content/uploads/2020/07/k%C4%B1z-kardes%CC%A7ler-film.jpg",
+    "movieName": "Kız Kardeşler"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "fileUrl": "https://archive.org/download/2019-yerli_202002/Anne-2019.mp4",
     "id": 3,
-    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner3.png",
-    "movieName": "BHOOT The Haunted Ship"
+    "imageUrl": "https://image.tmdb.org/t/p/original/q8e11hoYCi6B695MIYSZIpzYyjH.jpg",
+    "movieName": "Annem"
   },
   {
     "bannerCategoryId": "1",
-    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+    "fileUrl": "https://archive.org/download/Fury.2014.m1080p.BluRay.x264.DUAL.TR.ENG/Fury.2014.m1080p.BluRay.x264.DUAL.TR.ENG.mkv",
     "id": 4,
-    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner4.png",
-    "movieName": "MIRZAPUR"
+    "imageUrl": "https://cdn.sinefesto.com/uploads/2019/04/fury.jpg",
+    "movieName": "Fury"
   },
-  {
-    "bannerCategoryId": "1",
-    "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-    "id": 5,
-    "imageUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/banners/homebanner5.png",
-    "movieName": "PIKACHU"
-  },
+  
   {
     "bannerCategoryId": "2",
     "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
