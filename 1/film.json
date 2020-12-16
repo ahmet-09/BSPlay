@@ -1,7 +1,7 @@
 [
   {
     "categoryId": 1,
-    "categoryTitle": "2020",
+    "categoryTitle": "2020 Yapımı",
     "categoryItemList": [
       {
         "fileUrl": "https://archive.org/download/2020-Yertli/Eltilerin-Savasi2020.mp4",
@@ -22,14 +22,20 @@
         "movieName": "Yarına Tek Bilet"
       },
       {
-        "fileUrl": "https://archive.org/download/2020-Yertli/Biz-Boyleyiz2020.mp4",
+        "fileUrl": "https://archive.org/download/extraction_202008/Extraction.mp4",
         "id": 4,
+        "imageUrl": "https://storage.googleapis.com/bri-web-app-wordpress/2020/04/8bb3c463-chris-hemsworth-stars-in-new-act.jpg",
+        "movieName": "Extraction"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2020-Yertli/Biz-Boyleyiz2020.mp4",
+        "id": 5,
         "imageUrl": "https://www.soylentidergi.com/wp-content/uploads/2020/06/wannart-biz-b%C3%B6yleyiz-900x580-1.jpg",
         "movieName": "Biz Böyleyiz"
       },
       {
         "fileUrl": "https://archive.org/download/2020-Yertli/Gecegelen2020.mp4",
-        "id": 5,
+        "id": 6,
         "imageUrl": "https://i.pinimg.com/736x/07/39/a3/0739a3191a736a19da18e99c6f1d7af3.jpg",
         "movieName": "Gece Gelen"
       }
@@ -37,73 +43,73 @@
   },
   {
     "categoryId": 2,
-    "categoryTitle": "Movies in Hindi",
+    "categoryTitle": "İz Bırakanlar",
     "categoryItemList": [
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/kong-adasi_202009/7.%20Kogustaki%20Mucize%202019%20m1080p%20WEB-DL%20Yerli%20Sansursuz.mp4",
         "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bee4c34123ee1b254dc1d55abc8f708b34a3827892588d6819d5c20fd6a5da13._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Bhoot"
+        "imageUrl": "https://i.sozcu.com.tr/wp-content/uploads/2020/04/01/iecrop/maxresdefault_16_9_1585723212.jpg",
+        "movieName": "7. Koğuştaki Mucize"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/kong-adasi/Y%C4%B1ld%C4%B1zlar%20aras%C4%B1nda.mp4",
         "id": 2,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/2f813d581199099922bd238aa1d407babc3b3bf5112bb835b95c26fabda69e9a._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Blackmail"
+        "imageUrl": "https://2.bp.blogspot.com/-4CWF1qc1HGQ/VIBHlYUWToI/AAAAAAAADFY/hDcqkuuopjA/s1600/interstellar_ver7_xlg.jpg",
+        "movieName": "Yıldızlararası"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/kong-adasi/Ayla.2017.mp4",
         "id": 3,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4a0bd5b6cff38faf567b0627ab82b44411ca66876d4534e8bd0bfcf514a535f5._UR1920,1080_RI_SX356_FMwebp_.jpg",
-        "movieName": "Kaarwaan"
+        "imageUrl": "https://i4.hurimg.com/i/hurriyet/75/750x422/5ea58e4e67b0a90f24f01d81.jpg",
+        "movieName": "Ayla"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/kong-adasi/Ya%C5%9Fam%20%C5%9Fifresi.mp4",
         "id": 4,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/54d263b84f8d46fdf664fc2561ae4371d2ec6533634e59a3634f44c74c040054._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "102 Not-Out"
+        "imageUrl": "https://www.infreza.com/wp-content/uploads/2020/06/Source-Code.jpg",
+        "movieName": "Yaşam Şifresi"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Dirilis.2015.1080p.TRSub-720p.mp4",
         "id": 5,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/4ff53dd27ebc4d07abc9aafa536e0e2053396f7d25ac5ad7537e365f97ad1314._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Shikara"
+        "imageUrl": "https://store.donanimhaber.com/ea/67/b2/ea67b2dbe0f8050104f9918989e66b24.jpg",
+        "movieName": "Diriliş"
       }
     ]
   },
   {
     "categoryId": 3,
-    "categoryTitle": "Kids and family movies",
+    "categoryTitle": "Ölmeden İzle",
     "categoryItemList": [
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/D%C3%B6v%C3%BC%C5%9F%20Kul%C3%BCb%C3%BC%20%281999%29.mkv.mp4",
         "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/0a44ec3c8ee37914781c0daac1a0a6366c755bcdfd03f7c3d3f8048034945638._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Madagascar"
+        "imageUrl": "https://cdn3.whatculture.com/images/2016/03/b830ee08c4a2-600x338.jpg",
+        "movieName": "Dövüş Kulübü"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Esaretin%20Bedeli%20%281994%29.mkv.mp4",
         "id": 2,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/bd7bdc1f0402229386116115927fbe575613714414425b3228e0a98e99bf7d62._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Harry Potter"
+        "imageUrl": "https://masivaturk.com/resimler/film/esaretin-bedeli-the-shawshank-redemption/esaretin-bedeli-the-shawshank-redemption-sayfa-resmi.jpg",
+        "movieName": "Esaretin Bedeli"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Mad.Max.Fury.Road.2015.mp4",
         "id": 3,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/27c4a172f872c82abadf534421e2c30736a63464a6ea67e91464bc0972413126._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Jurassic Park"
+        "imageUrl": "https://mattmulcahey.files.wordpress.com/2015/05/fury-road-banner.jpg",
+        "movieName": "Mad Max: Öfekli Yollar"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/The%20Platform.mp4",
         "id": 4,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e0de18ac1340ee2e0b603f14eb14e131ed2260a6526d01988b8b70fcf4cdc7a3._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Storks"
+        "imageUrl": "https://birparcatuhaftik.com/wp-content/uploads/2020/08/plattt.jpg",
+        "movieName": "Platform"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Ye%C5%9Fil%20Yol%20%281999%29.mkv.mp4",
         "id": 5,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/55ac751d198a79679f79d0d6f15c1e62d4aa70a99cbb66539f124ce9f9f920ee._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "Lost and Found"
+        "imageUrl": "https://i.ytimg.com/vi/SR0oA9lckrs/maxresdefault.jpg",
+        "movieName": "Yeşil Yol"
       }
     ]
   },
@@ -138,7 +144,7 @@
     ]
   },
   {
-    "categoryId": 5,
+    "categoryId": 4,
     "categoryTitle": "Deneme",
     "categoryItemList": [
       {
@@ -149,13 +155,13 @@
       },
       {
         "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-        "id": 2,
+        "id": 1,
         "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9cb4c9bf70f2e01f15976dd6d1a3c31ea69fa005a4eaf17b21ad6d85f1366bd5._UR1920,1080_RI_SX712_FMwebp_.jpg",
         "movieName": "PatalLok"
       },
       {
         "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-        "id": 3,
+        "id": 1,
         "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/07cfda1dd1528776f5096513f7b4cd2e9432c18eef0612ba7de68c927b3450de._UR1920,1080_RI_SX712_FMwebp_.jpg",
         "movieName": "UPLOAD"
       },
