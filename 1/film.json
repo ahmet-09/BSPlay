@@ -38,6 +38,12 @@
         "id": 6,
         "imageUrl": "https://i.pinimg.com/736x/07/39/a3/0739a3191a736a19da18e99c6f1d7af3.jpg",
         "movieName": "Gece Gelen"
+      },
+      {
+        "fileUrl": "",
+        "id": 6,
+        "imageUrl": "https://cdn.kalkuyarhareketi.com/wp-content/uploads/2020/03/escape-from-pretoria-tavsiye-film.jpg",
+        "movieName": "Pretoria'dan Kaçış - Altyazılı"
       }
     ]
   },
@@ -74,6 +80,12 @@
         "id": 5,
         "imageUrl": "https://store.donanimhaber.com/ea/67/b2/ea67b2dbe0f8050104f9918989e66b24.jpg",
         "movieName": "Diriliş"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Yar%C4%B1n%C4%B1n%20S%C4%B1nn%C4%B1r%C4%B1nda.mp4",
+        "id": 6,
+        "imageUrl": "https://internetfatihi.com/wp-content/uploads/2020/05/Yar%C4%B1n%C4%B1n-S%C4%B1n%C4%B1r%C4%B1nda-Edge-Of-Tomorrow-Film-Bilgileri-Konusu-Oyuncular%C4%B1-Yap%C4%B1m-Y%C4%B1l%C4%B1-T%C3%BCr%C3%BC-Y%C3%B6netmeni-IMDb-Puan%C4%B1.jpg",
+        "movieName": "Yarının Sınırında"
       }
     ]
   },
@@ -115,61 +127,103 @@
   },
   {
     "categoryId": 4,
-    "categoryTitle": "Amazon Original series",
+    "categoryTitle": "Savaş",
     "categoryItemList": [
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Fury.2014.1080p.TRSub-1080p.mp4",
         "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c435cc1eac74025eaa5c7512e6371bb91cdc08ac6edcc58ead1c2321ec1b4fdf._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "EL PRESIDENT"
+        "imageUrl": "https://images2.alphacoders.com/616/616358.jpg",
+        "movieName": "Fury"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Dunkirk.mp4",
         "id": 2,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9cb4c9bf70f2e01f15976dd6d1a3c31ea69fa005a4eaf17b21ad6d85f1366bd5._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "PatalLok"
+        "imageUrl": "https://i.ytimg.com/vi/qLYTxFBSBf0/maxresdefault.jpg",
+        "movieName": "Dunkirk"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Danger.Close.2019.mp4",
         "id": 3,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/07cfda1dd1528776f5096513f7b4cd2e9432c18eef0612ba7de68c927b3450de._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "UPLOAD"
+        "imageUrl": "https://i.ytimg.com/vi/rW4MbWLwel4/maxresdefault.jpg",
+        "movieName": "Danger Close - Altyazılı"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Er%20Ryan%27%C4%B1%20Kurtarmak%20%281998%29.mkv.mp4",
         "id": 4,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/amazon_studios-FMAN_S1_STM_IN-Full-Image_GalleryCover-rw-RW-1569071977886._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "The Family Man"
+        "imageUrl": "https://i.dirilispostasi.com/storage/files/images/2019/10/11/11-IMDb%E2%80%99nin-olctugu-son-25-yilin-en-iyi-filmleri.jpg",
+        "movieName": "Er Ryan'ı Kurtarmak"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Greyhound.2020.1080p.WEB.H264-SECRECY.TRSub-480p.mp4",
+        "id": 6,
+        "imageUrl": "https://i.ytimg.com/vi/eyzxu26-Wqk/maxresdefault.jpg",
+        "movieName": "Greyhound - Altyazılı"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Hacksaw.Ridge.2016.1080p.TRSub-1080p.mp4",
+        "id": 7,
+        "imageUrl": "https://cutewallpaper.org/21/hacksaw-ridge-wallpapers/Netflix-UK-New-Releases-Films-TV-November-2017.jpg",
+        "movieName": "Savaş Vadisi - Altyazılı"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Resistance.2020.1080p.WEB-DL.H264.AC3-EVO.TRSub-1080p.mp4",
+        "id": 8,
+        "imageUrl": "https://ukjewishfilm.org/wp-content/uploads/2020/06/Resistance_16.9_CoverArt_DVDTT.jpg",
+        "movieName": "Resistance - Altyazılı"
+      },
+      {
+        "fileUrl": "https://archive.org/download/kong-adasi_202009/M%C3%BCttefik.mp4",
+        "id": 9,
+        "imageUrl": "https://i.pinimg.com/originals/69/52/1c/69521c19c3ca90feeee5cf40ff44dfd4.jpg",
+        "movieName": "Müttefik"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/While.At.War.2019.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.TRSub-720p.mp4",
+        "id": 10,
+        "imageUrl": "https://www.filmfactoryentertainment.com/wp-content/uploads/2019/10/waw_haifa_news_1110x555.jpg",
+        "movieName": "While At War"
       }
     ]
   },
   {
-    "categoryId": 4,
-    "categoryTitle": "Deneme",
+    "categoryId": 5,
+    "categoryTitle": "Netflix Orjinal Yapımları",
     "categoryItemList": [
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Traffik.2018.mp4",
         "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/c435cc1eac74025eaa5c7512e6371bb91cdc08ac6edcc58ead1c2321ec1b4fdf._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "EL PRESIDENT"
+        "imageUrl": "https://i.ytimg.com/vi/ZJYgf1Zq4go/maxresdefault.jpg",
+        "movieName": "Traffik"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-        "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/9cb4c9bf70f2e01f15976dd6d1a3c31ea69fa005a4eaf17b21ad6d85f1366bd5._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "PatalLok"
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/The.King.2019.WEB-DL.1080p.TRSub-1080p.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/XqGSdEKgzaQ/maxresdefault.jpg",
+        "movieName": "The King"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-        "id": 1,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/07cfda1dd1528776f5096513f7b4cd2e9432c18eef0612ba7de68c927b3450de._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "UPLOAD"
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/The%20Platform.mp4",
+        "id": 3,
+        "imageUrl": "https://www.heavenofhorror.com/wp-content/uploads/2020/03/the-platform-netflix-review.jpg",
+        "movieName": "The Platform"
       },
       {
-        "fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Tall.Girl.2019.WEB-DL.1080p.TR-1080p.mp4",
         "id": 4,
-        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/sgp-catalog-images/region_GLOBAL/amazon_studios-FMAN_S1_STM_IN-Full-Image_GalleryCover-rw-RW-1569071977886._UR1920,1080_RI_SX712_FMwebp_.jpg",
-        "movieName": "The Family Man"
+        "imageUrl": "https://www.teknopolis.net/wp-content/uploads/2019/10/Tall-Girl.jpg",
+        "movieName": "Tall Girl"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/MILF.mp4",
+        "id": 5,
+        "imageUrl": "https://occ-0-2567-2568.1.nflxso.net/dnm/api/v6/X194eJsgWBDE2aQbaNdmCXGUP-Y/AAAABR_NWD9vGUfVDxX-tnTAEgikM9goZxkZuyswhjqZkJ8ZrtYnR4fJ37xUIijjKw_K1hCK6knwRyAEDnvR5DjJfuBuduE93p9G9vJoO3_x7y8jYTpECawpTaN9NY01CA.jpg",
+        "movieName": "Milf"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Extraction.2020.WEB-DL.1080p.TR-720p.mp4",
+        "id": 6,
+        "imageUrl": "https://storage.googleapis.com/bri-web-app-wordpress/2020/04/8bb3c463-chris-hemsworth-stars-in-new-act.jpg",
+        "movieName": "Extraction"
       }
     ]
   }
