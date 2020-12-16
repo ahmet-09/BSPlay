@@ -40,7 +40,7 @@
         "movieName": "Gece Gelen"
       },
       {
-        "fileUrl": "",
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Escape%20from%20Pretoria.2020.fullhd.WEB-DL.H264.AC3-EVO.TRSub-720p.mp4",
         "id": 6,
         "imageUrl": "https://cdn.kalkuyarhareketi.com/wp-content/uploads/2020/03/escape-from-pretoria-tavsiye-film.jpg",
         "movieName": "Pretoria'dan Kaçış - Altyazılı"
@@ -86,6 +86,18 @@
         "id": 6,
         "imageUrl": "https://internetfatihi.com/wp-content/uploads/2020/05/Yar%C4%B1n%C4%B1n-S%C4%B1n%C4%B1r%C4%B1nda-Edge-Of-Tomorrow-Film-Bilgileri-Konusu-Oyuncular%C4%B1-Yap%C4%B1m-Y%C4%B1l%C4%B1-T%C3%BCr%C3%BC-Y%C3%B6netmeni-IMDb-Puan%C4%B1.jpg",
         "movieName": "Yarının Sınırında"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p/Benjamin%20Button%27%C4%B1n%20Tuhaf%20Hikayesi%20%282008%29.mkv.mp4",
+        "id": 7,
+        "imageUrl": "https://www.silverpetticoatreview.com/wp-content/uploads/2019/09/benjamin-button-brad-pitt.jpg",
+        "movieName": "Benjamin Button'ın Tuhaf Hikayesi"
+      },
+      {
+        "fileUrl": "https://archive.org/download/john-wick-3_20200910/hachiko.mp4",
+        "id": 8,
+        "imageUrl": "https://i2.wp.com/psychodrivein.com/wp/wp-content/uploads/2016/04/11-hachi.jpg",
+        "movieName": "Hachiko"
       }
     ]
   },
@@ -122,6 +134,12 @@
         "id": 5,
         "imageUrl": "https://i.ytimg.com/vi/SR0oA9lckrs/maxresdefault.jpg",
         "movieName": "Yeşil Yol"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p/Ak%C4%B1l%20Oyunlar%C4%B1%20%282001%29.mkv.mp4",
+        "id": 6,
+        "imageUrl": "https://media-cdn.t24.com.tr/media/files/20150524171715_akiloyunlari.jpg",
+        "movieName": "Akıl Oyunları"
       }
     ]
   },
@@ -182,6 +200,12 @@
         "id": 10,
         "imageUrl": "https://www.filmfactoryentertainment.com/wp-content/uploads/2019/10/waw_haifa_news_1110x555.jpg",
         "movieName": "While At War"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p/1917.2019.1080p.SCREENER.x264.AAC-FoE.TRSub-1080p.mp4",
+        "id": 11,
+        "imageUrl": "https://i.ytimg.com/vi/YqNYrYUiMfg/maxresdefault.jpg",
+        "movieName": "1917"
       }
     ]
   },
@@ -224,6 +248,18 @@
         "id": 6,
         "imageUrl": "https://storage.googleapis.com/bri-web-app-wordpress/2020/04/8bb3c463-chris-hemsworth-stars-in-new-act.jpg",
         "movieName": "Extraction"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p/365.dni.2020.WEB-DL.1080p.TR-720p.mp4",
+        "id": 7,
+        "imageUrl": "https://storage.googleapis.com/omgvoice_images/2020/06/7907f004-365dni-1021x580.jpg",
+        "movieName": "365 Dni"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p/Annihilation.2018.mp4",
+        "id": 8,
+        "imageUrl": "https://www.filmlerinsesi.net/wp-content/uploads/2018/03/hou_art_20180223_annihilation_header.jpg",
+        "movieName": "Annihilation"
       }
     ]
   }
