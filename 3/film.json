@@ -1,44 +1,110 @@
-[{
-		"categoryId": 3,
-		"categoryTitle": "Watch next movies",
-		"categoryItemList": [{
-				"fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-				"id": 2,
-				"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/6f22535cb1f0480cd1fdbc1b836d5909884a9422932f3ee03a160e506acd0c12._UR1920,1080_RI_SX356_FMwebp_.jpg",
-				"movieName": "Sakuntala Devi"
-			},
-			{
-				"fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-				"id": 2,
-				"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/e41166a5e9cec788790a4b3506dd8a8b4d76fd299ba8699161e1a8a53869bf59._UR1920,1080_RI_SX356_FMwebp_.jpg",
-				"movieName": "Fantasy Island"
-			},
-			{
-				"fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-				"id": 2,
-				"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/064a728e9ae7dc2409d27497e328f5646fe4ae9d64fed57ed3bd222bf3ad0b4e._UR1920,1080_RI_SX356_FMwebp_.jpg",
-				"movieName": "The Wailing"
-			}
-		]
-	},
-	{
-		"categoryId": 3,
-		"categoryTitle": "Amazon Original series",
-		"categoryItemList": [{
-			"fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-			"id": 2,
-			"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/44c2131db76aefb7210447a3f86ce3fc38f5670346a2219d3caf2cc0d7f4f27b._UR1920,1080_RI_SX356_FMwebp_.jpg",
-			"movieName": "Photograph"
-		}]
-	},
-	{
-		"categoryId": 3,
-		"categoryTitle": "Hollywood movies",
-		"categoryItemList": [{
-			"fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-			"id": 2,
-			"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/8a3f6b60455328e8246228c18311c3bfe06efbaac7a6e2f4809e4cabe0a79850._UR1920,1080_RI_SX356_FMwebp_.jpg",
-			"movieName": "No Vacancy"
-		}]
-	}
+[
+  {
+    "categoryId": 3,
+    "categoryTitle": "2019",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://archive.org/download/2019-yerli_202002/Aykut-Eniste-2019.mp4",
+        "id": 2,
+        "imageUrl": "https://i4.hurimg.com/i/hurriyet/75/1200x675/5e7c9f947af50716f0327666.jpg",
+        "movieName": "Aykut Enişte"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2019-yerli_202002/Akillara-Seza2019.mp4",
+        "id": 2,
+        "imageUrl": "https://i2.milimaj.com/i/milliyet/75/1200x675/5d3074e15542810c247e60d3.jpg",
+        "movieName": "Akıllara Seza"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/FV9XHJLbjptt8kH/2019/Aman.Reis.Duymasin.2019.Sansursuz.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/9PRP_4h2sV4/maxresdefault.jpg",
+        "movieName": "Aman Reis Duymasın"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/FV9XHJLbjptt8kH/2019/Nasipse.Olur.2019.HDTVRip.mp4",
+        "id": 2,
+        "imageUrl": "https://www.boyabatmanset.com/wp-content/uploads/2019/12/Nasipse-olur-1-1024x579.jpeg",
+        "movieName": "Nasipse Olur"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2019-yerli_202002/Hareket-Sekiz2019.mp4",
+        "id": 2,
+        "imageUrl": "https://filmw.net/wp-content/uploads/2020/02/c63f00995e419cd78cb69e86a520d743.jpg",
+        "movieName": "Hareket Sekiz"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2019-yerli_202002/HepYek3-2019.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/RQd6Qw5nY8E/maxresdefault.jpg",
+        "movieName": "Hep Yek 3"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2019-yerli_202002/Recepivedik6-2019.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/6Xhpld5V2jM/maxresdefault.jpg",
+        "movieName": "Recep İvedik 6"
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "categoryTitle": "Karakomik Filmler",
+    "categoryItemList": [
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/FV9XHJLbjptt8kH/2019/KaraKomik.1.Kacamak.2019.Sansursuz.mp4",
+        "id": 2,
+        "imageUrl": "https://i.pinimg.com/736x/6c/df/f1/6cdff15333d5c466a3a9b9ce56f3bc13.jpg",
+        "movieName": "Karakomik Filmler Kaçamak"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/FV9XHJLbjptt8kH/2019/KaraKomik.2.Arada.2019.Sansursuz.mp4",
+        "id": 2,
+        "imageUrl": "https://i.pinimg.com/736x/6c/df/f1/6cdff15333d5c466a3a9b9ce56f3bc13.jpg",
+        "movieName": "Karakomik Filmler Arada"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2019-yerli_202002/Karakomik-Filmler-2-2019.mp4",
+        "id": 2,
+        "imageUrl": "https://cdn.haber.com/wp-content/uploads/2020/06/karakomik-filmler-2-netflixe-geliyor-17414079.jpg",
+        "movieName": "Karakomik Filmler Deli"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2019-yerli_202002/Karakomik-Filmler-Kacamak.2019.mp4",
+        "id": 2,
+        "imageUrl": "https://cdn.haber.com/wp-content/uploads/2020/06/karakomik-filmler-2-netflixe-geliyor-17414079.jpg",
+        "movieName": "Karakomik Filmler Emanet"
+      }
+    ]
+  },
+  {
+    "categoryId": 3,
+    "categoryTitle": "2020",
+    "categoryItemList": [
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/FV9XHJLbjptt8kH/2020/Baba.Parasi.2019.Sansursuz.mp4",
+        "id": 2,
+        "imageUrl": "https://im.haberturk.com/2019/12/02/ver1575281279/2545490_810x458.jpg",
+        "movieName": "Baba Parası"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/FV9XHJLbjptt8kH/2020/9.Kere.Leyla.2020.Sansursuz.mp4",
+        "id": 2,
+        "imageUrl": "https://static.birgun.net/resim/haber-detay-resim/2020/11/18/netflix-ezel-akay-imzali-9-kere-leyla-filminin-resmi-fragmanini-paylasti-806416-5.jpg",
+        "movieName": "9 Kere Leyla"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/FV9XHJLbjptt8kH/2020/Zengo.2020.Sansursuz.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/m01y3uVBDQY/maxresdefault.jpg",
+        "movieName": "Zengo"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/FV9XHJLbjptt8kH/2020/Feride.2020.Sansursuz.mp4",
+        "id": 2,
+        "imageUrl": "https://i.pinimg.com/736x/91/8d/46/918d46ea71b95e8abab7a8a0a48a7622.jpg",
+        "movieName": "Feride"
+      }
+    ]
+  }
 ]
