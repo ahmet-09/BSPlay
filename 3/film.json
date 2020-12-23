@@ -106,5 +106,35 @@
         "movieName": "Feride"
       }
     ]
+  },
+  {
+    "categoryId": 3,
+    "categoryTitle": "Çakallarla Dans Serisi",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://archive.org/download/AkallarlaDans4/%C3%87akallarla%20Dans%201.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/kmEODj58u-4/maxresdefault.jpg",
+        "movieName": "Çakallarla Dans 1"
+      },
+      {
+        "fileUrl": "https://archive.org/download/AkallarlaDans4/%C3%87akallarla%20Dans%202.mp4",
+        "id": 2,
+        "imageUrl": "https://i2.milimaj.com/i/milliyet/75/0x410/5ecd47945542830ff8746543.jpg",
+        "movieName": "Çakallarla Dans 2"
+      },
+      {
+        "fileUrl": "https://archive.org/download/AkallarlaDans4/%C3%87akallarla%20Dans%203.mp4",
+        "id": 2,
+        "imageUrl": "https://i2.milimaj.com/i/milliyet/75/0x0/5ece9af5adcdeb10e455b4d4.jpg",
+        "movieName": "Çakallarla Dans 3"
+      },
+      {
+        "fileUrl": "https://archive.org/download/AkallarlaDans4/%C3%A7akallarla%20dans%204.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/di-4gxD6Bac/maxresdefault.jpg",
+        "movieName": "Çakallarla Dans 4"
+      }
+    ]
   }
 ]
