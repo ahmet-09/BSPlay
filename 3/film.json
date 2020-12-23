@@ -136,5 +136,47 @@
         "movieName": "Çakallarla Dans 4"
       }
     ]
+  },
+  {
+    "categoryId": 3,
+    "categoryTitle": "Karışık",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://archive.org/download/2018-Yerli/CiciBabam2018.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/Gf36hf8Jfl8/maxresdefault.jpg",
+        "movieName": "Cici Babam"
+      },
+      {
+        "fileUrl": "https://archive.org/download/alddn-19m/Alddn19m.mkv",
+        "id": 2,
+        "imageUrl": "https://agirlynerd.files.wordpress.com/2019/05/aladdin.jpg",
+        "movieName": "Alaaddin"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2018-Yerli/Deliha2-2018.mp4",
+        "id": 2,
+        "imageUrl": "https://i2.milimaj.com/i/milliyet/75/1200x675/5f85650b554285087c624970.jpg",
+        "movieName": "Deliha 2"
+      },
+      {
+        "fileUrl": "https://archive.org/download/2018-Yerli/Bucur2018.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/nHdVk--L6vI/maxresdefault.jpg",
+        "movieName": "Bücür"
+      },
+      {
+        "fileUrl": "https://archive.org/download/kacmabiraderizlefullhdyerlikomediizle/Ka%C3%A7ma%20Birader%20izle%20full%20hd%20-%20Yerli%20komedi%20izle.ogv",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/H12ta3MeH3k/maxresdefault.jpg",
+        "movieName": "Kaçma Birader"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/d/2018/ArifV.216.2018.SANSURSUZ.mp4.html",
+        "id": 2,
+        "imageUrl": "https://intermedya.tv/wp-content/uploads/2020/02/ARIF-BANNER-1920x1080-1.jpg",
+        "movieName": "Arif ve 216"
+      }
+    ]
   }
 ]
