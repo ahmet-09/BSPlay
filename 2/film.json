@@ -1,35 +1,68 @@
-[{
-		"categoryId": 2,
-		"categoryTitle": "Watch next TV",
-		"categoryItemList": [{
-				"fileUrl": "https://archive.org/download/videoplayback_20191128_1603/videoplayback.mp4",
-				"id": 2,
-				"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/a8bf3fb6b382482453080363ff3feb9ba5b869380f25d649ac0610e681e59565._UR1920,1080_RI_SX356_FMwebp_.jpg",
-				"movieName": "Suits"
-			},
-			{
-				"fileUrl": "https://qaa26ef.deffenbaugh.tk/m0/NNO3tLZ1pGZjDGZcfl1lyDP1UAqYwlvFKKPlyjPDmvlXbjpFGQZlZQ1Y1fYX1vYmIqFY1lpb1080",
-				"id": 2,
-				"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/a5cb0cc90e518da0eca205ada53afb4f90a4d07a13e07e1f6ae6975faabe854f._UR1920,1080_RI_SX356_FMwebp_.jpg",
-				"movieName": "ABSENTIA"
-			}
-		]
-	},
-	{
-		"categoryId": 2,
-		"categoryTitle": "Amazon Original series",
-		"categoryItemList": [{
-				"fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-				"id": 2,
-				"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/atv-aps-images/encoded/BNDT_S1/US/en_US/COVER_ART/NEW_SERIES/TAMANNA._UR1920,1080_RI_SX356_FMwebp_.jpg",
-				"movieName": "Bandish Bandits"
-			},
-			{
-				"fileUrl": "https://androidappsforyoutube.s3.ap-south-1.amazonaws.com/primevideo/patallok.mp4",
-				"id": 2,
-				"imageUrl": "https://images-eu.ssl-images-amazon.com/images/S/pv-target-images/f29d8f3bfea5ac2c4a8b3e368d1473abf2607d4ec2e023ab560416a1fe4ab611._UR1920,1080_RI_SX356_FMwebp_.jpg",
-				"movieName": "The Expanse"
-			}
-		]
-	}
+[
+  {
+    "categoryId": 2,
+    "categoryTitle": "Türk Askeri",
+    "categoryItemList": [
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/d/2012/Dag.2012.mp4.html",
+        "id": 2,
+        "imageUrl": "https://c11.incisozluk.com.tr/res/incisozluk/11001/0/125140_ob813.jpg",
+        "movieName": "Dağ 1"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/d/2016/Dag.2.2016.SANSURSUZ.mp4.html",
+        "id": 2,
+        "imageUrl": "https://i.superhaber.tv/2/1280/720/storage/files/images/2018/08/30/3-09py-cover-muFR_cover.jpg",
+        "movieName": "Dağ 2"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/d/2018/T.i.m.2018.Sansursuz.mp4.html",
+        "id": 2,
+        "imageUrl": "https://foto.sondakika.com/haber/2018/06/28/t-i-m-sinema-filmi-iddiali-geliyor-10996703_8763_amp.jpg",
+        "movieName": "T.İ.M"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/d/2019/Meteler.2019.Sansursuz.mp4.html",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/ZrHsA349pcA/maxresdefault.jpg",
+        "movieName": "Meteler"
+      },
+      {
+        "fileUrl": "http://srv0.yerlifilm.mobi/d/2018/Boru.2018.Sansursuz.mp4.html",
+        "id": 2,
+        "imageUrl": "https://img.piri.net/mnresize/840/-/resim/imagecrop/2018/12/27/01/54/resized_c0a88-67d454d6maxresdefault.jpg",
+        "movieName": "Börü"
+      }
+    ]
+  },
+  {
+    "categoryId": 2,
+    "categoryTitle": "Yabancı",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://archive.org/download/john-wick-3_20200910/Guns.Akimbo.2019.1080p.WEBRip.TRSub-720p.mp4",
+        "id": 2,
+        "imageUrl": "https://yorumguncel.com/wp-content/uploads/2020/09/guns-akimbo-film-2020-konusu-oyunculari-ne-zaman.jpg",
+        "movieName": "Guns Akimbo - Altyazılı"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Tomb%20Raider%20%282018%29.mp4",
+        "id": 2,
+        "imageUrl": "https://storage.oyungezer.com.tr/ogz-public/public/content/2018/3/16/image_52718.jpg",
+        "movieName": "Tomb Raider"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Terminator.Dark.Fate.2019.TR.mkv",
+        "id": 2,
+        "imageUrl": "https://i4.hurimg.com/i/hurriyet/75/750x422/5cecc67f7af50708d891d932.jpg",
+        "movieName": "Terminator Dark Fate"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Mission.Impossible.Fallout.2018.TR.mkv.mp4",
+        "id": 2,
+        "imageUrl": "https://im.haberturk.com/2018/07/27/ver1532693537/2077843_b1935dfd62e6930adec420d7a7700928.jpg",
+        "movieName": "Yansımalar"
+      }
+    ]
+  }
 ]
