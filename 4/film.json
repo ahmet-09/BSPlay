@@ -55,7 +55,7 @@
   },
   {
     "categoryId": 2,
-    "categoryTitle": "Aşk ve Romantik Sevenlere",
+    "categoryTitle": "Aşk ve Romantik",
     "categoryItemList": [
       {
         "fileUrl": "http://srv0.yerlifilm.mobi/d/2019/Agir.Romantik.2019.Sansursuz.mp4.html",
@@ -92,6 +92,49 @@
         "id": 2,
         "imageUrl": "https://i4.hurimg.com/i/hurriyet/75/750x422/56321b5367b0a96a34eac974.jpg",
         "movieName": "Deli Bal"
+      }
+    ]
+  },
+  {
+    "categoryId": 2,
+    "categoryTitle": "Bilim Kurgu",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Kar.Kureyici.2013.mp4",
+        "id": 2,
+        "imageUrl": "https://ozgurlukicin.com/wp-content/uploads/2019/02/Snowpiercer-2013-1280x720.jpg
+",
+        "movieName": "Snowpiercer"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Labirent%202%20Alev%20Deneyleri%20%282015%29%20720p.mkv.mp4",
+        "id": 2,
+        "imageUrl": "https://www.anarsamadov.net/wp-content/uploads/2015/08/labirent-2-alev-deneyleri-630x300.jpg",
+        "movieName": "Labirent Alev Deneyleri"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Level.16.2018.Bluray.1080p.TR-720p.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/qgtN95CJaDg/maxresdefault.jpg",
+        "movieName": "Level 16"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Pasifik%20Sava%C5%9F%C4%B1%20%282013%29.mp4",
+        "id": 2,
+        "imageUrl": "https://image.tmdb.org/t/p/original/ig7qUy7drkEFZNCK7gi0hMn1WMN.jpg",
+        "movieName": "Pasifik Savaşı 1"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Yar%C4%B1n%C4%B1n%20S%C4%B1nn%C4%B1r%C4%B1nda.mp4",
+        "id": 2,
+        "imageUrl": "https://ozetivar.com/wp-content/uploads/2018/05/yar%C4%B1n%C4%B1n_s%C4%B1n%C4%B1r%C4%B1nda_filmi_konusu.jpg",
+        "movieName": "Yarının Sınırında"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Yildizlararasi.2014.IMAX.1080p.TR.v2-720p.mp4",
+        "id": 2,
+        "imageUrl": "https://spoilercanavari.com/wp-content/uploads/2020/03/interstellar-konusu.jpg",
+        "movieName": "Yıldızlar Arası"
       }
     ]
   }
