@@ -136,5 +136,53 @@
         "movieName": "Yıldızlar Arası"
       }
     ]
+  },
+  {
+    "categoryId": 2,
+    "categoryTitle": "Gizem, Gerilim ve Macera",
+    "categoryItemList": [
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Da%20Vinci%20%C5%9Eifresi%20%282006%29.mkv.mp4",
+        "id": 2,
+        "imageUrl": "https://tr.web.img4.acsta.net/r_1280_720/pictures/14/03/25/13/39/364980.jpg",
+        "movieName": "Da Vinci Şifresi"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Do%C4%9Fu%20Ekspresinde%20Cinayet.mp4",
+        "id": 2,
+        "imageUrl": "https://geyikdolu.com/wp-content/uploads/2017/11/Murder-on-the-Orient-Express-933x445.jpg",
+        "movieName": "Doğu Ekspresinde Cinayet"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p_202009/Jigsaw.2017.TR.mkv.mp4",
+        "id": 2,
+        "imageUrl": "https://d13ezvd6yrslxm.cloudfront.net/wp/wp-content/images/Jigsaw-clip.jpg",
+        "movieName": "Saw: Legacy"
+      },
+      {
+        "fileUrl": "https://archive.org/download/redbad.-2018.-bluray.-1080p.-trsub-1080p/%C3%87izgi%20%C3%96tesi.mp4",
+        "id": 2,
+        "imageUrl": "https://vodzilla.co/wp-content/uploads/2018/02/Flatliners-700x382.jpg",
+        "movieName": "Çizgi Ötesi"
+      },
+      {
+        "fileUrl": "https://archive.org/download/kong-adasi_202009/Bayan%20Pelegrini.mp4",
+        "id": 2,
+        "imageUrl": "https://www.fundalina.com/wp-content/uploads/2016/09/Bayan-Peregrine%E2%80%99in-Tuhaf-cocuklari-Filmi-.jpg",
+        "movieName": "Bayan Peregrine'in Tuhaf Çocukları"
+      },
+      {
+        "fileUrl": "https://archive.org/download/kong-adasi_202009/Enola%20Holmes.mp4",
+        "id": 2,
+        "imageUrl": "https://pbs.twimg.com/media/EjELcpdUMAAAYhd.jpg",
+        "movieName": "Enola Holmes"
+      },
+      {
+        "fileUrl": "https://archive.org/download/kong-adasi_202009/John%20Wick%202.mp4",
+        "id": 2,
+        "imageUrl": "https://i.ytimg.com/vi/9oqAsWKIaX8/maxresdefault.jpg",
+        "movieName": "John Wick 2"
+      }
+    ]
   }
 ]
